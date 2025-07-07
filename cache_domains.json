@@ -6,7 +6,7 @@
       "domain_files": ["playstore.txt"]
     },
     {
-      "name": "sasmsung",
+      "name": "samsung",
       "description": "CDN for Samsung Galaxy Store",
       "domain_files": ["samsung.txt"]
     },
