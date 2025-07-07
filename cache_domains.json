@@ -1,6 +1,16 @@
 {
   "cache_domains": [
     {
+      "name": "playstore",
+      "description": "CDN for Google Play Store",
+      "domain_files": ["playstore.txt"]
+    },
+    {
+      "name": "sasmsung",
+      "description": "CDN for Samsung Galaxy Store",
+      "domain_files": ["samsung.txt"]
+    },
+    {
       "name": "caritas",
       "description": "CDN Caritas Server",
       "domain_files": ["caritas.txt"]
