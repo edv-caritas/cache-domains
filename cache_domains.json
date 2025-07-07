@@ -1,20 +1,11 @@
 {
   "cache_domains": [
     {
-      "name": "androidps",
-      "description": "Google Play Store for Android devices",
-      "domain_files": ["android_playstore.txt"]
-    },
-    {
-      "name": "androidupdates",
-      "description": "Samsung updates for Android devices",
-      "domain_files": ["android_updates.txt"]
-    },
-    {
-      "name": "caritasrmm",
-      "description": "Caritas Remote Monitoring and Management",
+      "name": "caritas",
+      "description": "CDN Caritas Server",
       "domain_files": ["caritas.txt"]
     },
+
     {
       "name": "wsus",
       "description": "CDN for windows updates",
