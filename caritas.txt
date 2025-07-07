@@ -1,4 +1,4 @@
-﻿gorilla.caritas-im-norden.de
+gorilla.caritas-im-norden.de
 cdn.microsoft.com
 azureedge.net
 teamviewer.com
