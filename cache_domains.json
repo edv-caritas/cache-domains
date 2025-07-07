@@ -5,7 +5,6 @@
       "description": "CDN Caritas Server",
       "domain_files": ["caritas.txt"]
     },
-
     {
       "name": "wsus",
       "description": "CDN for windows updates",
