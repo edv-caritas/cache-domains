@@ -1,5 +1,4 @@
-﻿# Samsung Firmware & Updates
-samsung.com
+﻿samsung.com
 samsungapps.com
 fota-cloud-dn.ospserver.net
 fota-cloud-dn.ospserver.net.edgesuite.net

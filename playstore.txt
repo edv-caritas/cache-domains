@@ -1,5 +1,4 @@
-﻿# Google Play Store (app downloads, updates)
-play.googleapis.com
+﻿play.googleapis.com
 android.clients.google.com
 play-fe.googleapis.com
 gvt1.com
