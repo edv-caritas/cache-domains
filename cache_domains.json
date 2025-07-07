@@ -13,7 +13,7 @@
     {
       "name": "caritasrmm",
       "description": "Caritas Remote Monitoring and Management",
-      "domain_files": ["caritas_rmm.txt"]
+      "domain_files": ["caritas.txt"]
     },
     {
       "name": "wsus",
