@@ -1,17 +1,17 @@
 {
   "cache_domains": [
     {
-      "name": "Android - PlayStore",
+      "name": "androidps",
       "description": "Google Play Store for Android devices",
       "domain_files": ["android_playstore.txt"]
     },
     {
-      "name": "Android / Samsung - Updates",
+      "name": "androidupdates",
       "description": "Samsung updates for Android devices",
       "domain_files": ["android_updates.txt"]
     },
     {
-      "name": "Caritas - RMM",
+      "name": "caritasrmm",
       "description": "Caritas Remote Monitoring and Management",
       "domain_files": ["caritas_rmm.txt"]
     }
