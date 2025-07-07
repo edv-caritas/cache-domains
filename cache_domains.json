@@ -14,6 +14,11 @@
       "name": "caritasrmm",
       "description": "Caritas Remote Monitoring and Management",
       "domain_files": ["caritas_rmm.txt"]
+    },
+    {
+      "name": "wsus",
+      "description": "CDN for windows updates",
+      "domain_files": ["windowsupdates.txt"]
     }
   ]
 }
