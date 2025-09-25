@@ -2,6 +2,6 @@ gorilla.caritas-im-norden.de
 cdn.microsoft.com
 azureedge.net
 adobe.com
-*adobe.com
+*.adobe.com
 chocolatey.org
-*chocolatey.org
+*.chocolatey.org
