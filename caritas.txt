@@ -3,3 +3,5 @@ cdn.microsoft.com
 azureedge.net
 adobe.com
 *adobe.com
+chocolatey.org
+*chocolatey.org
